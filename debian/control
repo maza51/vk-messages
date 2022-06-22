@@ -1,0 +1,14 @@
+Source: vk-messages
+Section: net
+Priority: optional
+Maintainer: Reutov Kirill <maza51@mail.ru>
+Build-Depends: debhelper (>= 9.0.0), libglib2.0-dev, libappindicator3-dev, libgtk-3-dev, libcurl4-openssl-dev, libboost-dev, libwebkitgtk-3.0-dev, libnotify-dev
+Standards-Version: 3.9.2
+Homepage: https://launchpad.net/~maza51/
+
+Package: vk-messages
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Indicator for Ubuntu
+ Applet
+ tested.

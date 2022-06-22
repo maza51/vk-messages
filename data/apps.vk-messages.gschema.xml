@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="apps.vk-messages" path="/apps/vk-messages/">
+        <key type="b" name="newmail">
+            <default>true</default>
+            <summary>Уведомления о новых сообщениях</summary>
+            <description></description>
+        </key>
+        <key type="b" name="tuping">
+            <default>true</default>
+            <summary>Уведомления о набирающих текст</summary>
+            <description></description>
+        </key>
+    </schema>
+</schemalist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   enable-background="new 0 0 415 414.996"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="vk.svg"><metadata
+   id="metadata3265"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3263"><filter
+     id="filter4577"
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Drop Shadow"><feFlood
+       id="feFlood4579"
+       flood-opacity="0.667"
+       flood-color="rgb(0,0,0)"
+       result="flood" /><feComposite
+       id="feComposite4581"
+       in2="SourceGraphic"
+       in="flood"
+       operator="in"
+       result="composite1" /><feOffset
+       id="feOffset4583"
+       dx="-0.2"
+       dy="0.3"
+       result="offset" /><feComposite
+       id="feComposite4585"
+       in2="offset"
+       in="SourceGraphic"
+       operator="over"
+       result="composite2" /></filter></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1288"
+   inkscape:window-height="830"
+   id="namedview3261"
+   showgrid="false"
+   inkscape:zoom="28.909091"
+   inkscape:cx="11"
+   inkscape:cy="11"
+   inkscape:window-x="355"
+   inkscape:window-y="70"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   d="m 17.368574,16.838607 c -0.03201,0 -0.06322,0 -0.09523,0 -1.023381,-0.168073 -1.720723,-0.890364 -2.316232,-1.558704 -0.335045,-0.378075 -0.850922,-1.232938 -1.465247,-1.1344 -0.872324,0.140531 -0.438715,1.629758 -0.803365,2.268127 -0.294025,0.515447 -1.546544,0.422436 -2.410318,0.330388 C 7.5518594,16.454831 6.1586672,15.000368 4.937358,13.436869 3.6317139,11.76591 2.6153332,10.01741 1.6757145,8.0976182 1.3713624,7.476237 0.96689849,6.7887107 0.96689849,6.0186153 1.4088256,5.6589931 2.1299189,5.7825922 2.8576674,5.7825922 c 0.6169077,0 1.5803928,-0.1357331 2.0320155,0.094589 C 5.1582928,6.0129142 5.4293124,6.7376897 5.6462316,7.1999162 6.1439804,8.2608359 6.601799,9.0243841 7.2060282,9.8929639 7.4676965,10.269516 7.8696361,10.979675 8.340306,10.885198 8.797379,10.793939 8.8404645,9.6683412 8.8602,8.9484194 8.8830908,8.1308038 8.8592853,7.1143009 8.6240618,6.6803498 8.4018649,6.2707237 7.9953353,6.2625965 7.584159,6.018559 7.9263184,5.3309763 8.8642159,5.2622914 9.9949367,5.2622914 c 0.9498313,0 2.2763003,-0.1050307 2.6466853,0.5203571 0.377099,0.6367324 0.118359,1.7849051 0.09449,2.6454138 -0.02623,0.9671765 -0.1938,1.9659017 0.473192,2.4102367 0.512553,-0.05564 0.788447,-0.555066 1.086548,-0.9453344 0.652133,-0.8540754 1.055391,-1.5933549 1.559738,-2.6930474 0.206993,-0.4517291 0.42879,-1.2289354 0.803364,-1.3703687 0.570838,-0.215762 1.480855,-0.0469 2.31623,-0.0469 0.684951,0 1.907119,-0.1890669 2.127251,0.283657 0.182497,0.3919048 -0.35478,1.3817127 -0.519836,1.6531788 -0.633317,1.0375542 -1.254298,1.6984422 -1.937584,2.5986263 -0.273601,0.360357 -0.837788,0.936473 -0.804167,1.512592 0.02548,0.437055 0.464933,0.772465 0.804167,1.086825 0.733485,0.681036 1.248387,1.177239 1.843094,1.936722 0.223458,0.286143 0.708012,0.905716 0.661198,1.275893 -0.14377,1.154495 -2.864122,0.430564 -3.780734,0.708465 z"
+   id="path3259"
+   inkscape:connector-curvature="0"
+   style="fill:#f5f5f5;fill-opacity:1;filter:url(#filter4577)" />
+</svg>

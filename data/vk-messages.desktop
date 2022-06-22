@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=vk-messages
+Comment=vk-messages
+Exec=vk-messages
+Terminal=false
+Type=Application
+Icon=/usr/share/vk-messages/data/vk-messages.png
+Terminal=false
+Type=Application

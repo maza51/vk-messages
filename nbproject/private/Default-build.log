@@ -1,0 +1,30 @@
+Making all in src
+make[1]: Вход в каталог `/home/maza-luma/Yandex.Disk/Документы/VK_Messages_2/vk-messages/src'
+(CDPATH="${ZSH_VERSION+.}:" && cd .. && /bin/bash /home/maza-luma/Yandex.Disk/Документы/VK_Messages_2/vk-messages/missing --run autoheader)
+rm -f stamp-h1
+touch config.h.in
+cd .. && /bin/bash ./config.status src/config.h
+config.status: creating src/config.h
+config.status: src/config.h is unchanged
+/usr/bin/make  all-am
+make[2]: Вход в каталог `/home/maza-luma/Yandex.Disk/Документы/VK_Messages_2/vk-messages/src'
+/usr/bin/g++ -DHAVE_CONFIG_H -I.  -pthread -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/freetype2 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/libpng12 -I/usr/include/libdbusmenu-glib-0.4 -I/usr/include/libsoup-2.4 -I/usr/include/libxml2 -I/usr/include/libappindicator3-0.1 -I/usr/include/webkitgtk-3.0   -std=c++0x   -g3 -gdwarf-2 -MT main.o -MD -MP -MF .deps/main.Tpo -c -o main.o main.cpp
+mv -f .deps/main.Tpo .deps/main.Po
+/usr/bin/g++ -DHAVE_CONFIG_H -I.  -pthread -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/freetype2 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/libpng12 -I/usr/include/libdbusmenu-glib-0.4 -I/usr/include/libsoup-2.4 -I/usr/include/libxml2 -I/usr/include/libappindicator3-0.1 -I/usr/include/webkitgtk-3.0   -std=c++0x   -g3 -gdwarf-2 -MT Curl.o -MD -MP -MF .deps/Curl.Tpo -c -o Curl.o Curl.cpp
+mv -f .deps/Curl.Tpo .deps/Curl.Po
+/usr/bin/g++ -DHAVE_CONFIG_H -I.  -pthread -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/freetype2 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/libpng12 -I/usr/include/libdbusmenu-glib-0.4 -I/usr/include/libsoup-2.4 -I/usr/include/libxml2 -I/usr/include/libappindicator3-0.1 -I/usr/include/webkitgtk-3.0   -std=c++0x   -g3 -gdwarf-2 -MT Auth.o -MD -MP -MF .deps/Auth.Tpo -c -o Auth.o Auth.cpp
+mv -f .deps/Auth.Tpo .deps/Auth.Po
+/usr/bin/g++ -DHAVE_CONFIG_H -I.  -pthread -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/freetype2 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/libpng12 -I/usr/include/libdbusmenu-glib-0.4 -I/usr/include/libsoup-2.4 -I/usr/include/libxml2 -I/usr/include/libappindicator3-0.1 -I/usr/include/webkitgtk-3.0   -std=c++0x   -g3 -gdwarf-2 -MT Indicator.o -MD -MP -MF .deps/Indicator.Tpo -c -o Indicator.o Indicator.cpp
+mv -f .deps/Indicator.Tpo .deps/Indicator.Po
+/usr/bin/g++ -DHAVE_CONFIG_H -I.  -pthread -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/freetype2 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/libpng12 -I/usr/include/libdbusmenu-glib-0.4 -I/usr/include/libsoup-2.4 -I/usr/include/libxml2 -I/usr/include/libappindicator3-0.1 -I/usr/include/webkitgtk-3.0   -std=c++0x   -g3 -gdwarf-2 -MT Window.o -MD -MP -MF .deps/Window.Tpo -c -o Window.o Window.cpp
+mv -f .deps/Window.Tpo .deps/Window.Po
+/usr/bin/g++ -DHAVE_CONFIG_H -I.  -pthread -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/freetype2 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/libpng12 -I/usr/include/libdbusmenu-glib-0.4 -I/usr/include/libsoup-2.4 -I/usr/include/libxml2 -I/usr/include/libappindicator3-0.1 -I/usr/include/webkitgtk-3.0   -std=c++0x   -g3 -gdwarf-2 -MT Vk.o -MD -MP -MF .deps/Vk.Tpo -c -o Vk.o Vk.cpp
+mv -f .deps/Vk.Tpo .deps/Vk.Po
+/usr/bin/g++ -DHAVE_CONFIG_H -I.  -pthread -I/usr/include/gtk-3.0 -I/usr/include/pango-1.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/freetype2 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/libpng12 -I/usr/include/libdbusmenu-glib-0.4 -I/usr/include/libsoup-2.4 -I/usr/include/libxml2 -I/usr/include/libappindicator3-0.1 -I/usr/include/webkitgtk-3.0   -std=c++0x   -g3 -gdwarf-2 -MT Settings.o -MD -MP -MF .deps/Settings.Tpo -c -o Settings.o Settings.cpp
+mv -f .deps/Settings.Tpo .deps/Settings.Po
+/usr/bin/g++  -g3 -gdwarf-2 -Wl,--export-dynamic  -o vk-messages main.o Curl.o Auth.o Indicator.o Window.o Vk.o Settings.o -lcurl -lappindicator3 -ldbusmenu-glib -lwebkitgtk-3.0 -lgtk-3 -lsoup-2.4 -ljavascriptcoregtk-3.0 -lgdk-3 -latk-1.0 -lpangocairo-1.0 -lcairo-gobject -lpango-1.0 -lcairo -lnotify -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0   
+make[2]: Выход из каталога `/home/maza-luma/Yandex.Disk/Документы/VK_Messages_2/vk-messages/src'
+make[1]: Выход из каталога `/home/maza-luma/Yandex.Disk/Документы/VK_Messages_2/vk-messages/src'
+make[1]: Вход в каталог `/home/maza-luma/Yandex.Disk/Документы/VK_Messages_2/vk-messages'
+make[1]: Цель `all-am' не требует выполнения команд.
+make[1]: Выход из каталога `/home/maza-luma/Yandex.Disk/Документы/VK_Messages_2/vk-messages'

@@ -1,0 +1,4 @@
+data/apps.vk-messages.gschema.xml usr/share/glib-2.0/schemas/
+src/vk-messages usr/bin/
+data/vk-messages.desktop usr/share/applications/
+data usr/share/vk-messages/
